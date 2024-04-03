@@ -51,8 +51,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [John Mwendwa](https://johnmwendwa.vercel.app/)
-- Frontend Mentor - [@JohnMwendwa](https://www.frontendmentor.io/profile/JohnMwendwa)
 
 ## Reminder
 
