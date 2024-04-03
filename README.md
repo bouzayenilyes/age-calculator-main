@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/JohnMwendwa/age-calculator](https://github.com/JohnMwendwa/age-calculator)
-- Live Site URL: [https://johnmwendwa.github.io/age-calculator](https://johnmwendwa.github.io/age-calculator/)
+- Solution URL: [(https://age-calculator-one-eta.vercel.app/)](https://github.com/bouzayenilyes/age-calculator)
+- Live Site URL: [(https://age-calculator-one-eta.vercel.app/)](https://age-calculator-one-eta.vercel.app/)
 
 ## My process
 
